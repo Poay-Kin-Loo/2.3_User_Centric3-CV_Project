@@ -56,6 +56,7 @@ h4 {
 }
 
 .section-column{
+    display: table-cell
     padding: 0 30px 30px;
     float: none;
 }
@@ -66,6 +67,8 @@ h4 {
     margin-top: 25px;
     margin-bottom: 40px;
 }
+
+
 
 /* ---------Heading */
 
@@ -212,4 +215,16 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/* ---------Three Reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e76e22;
+}
+
+.three-reasons-heading{
+    margin-bottom: 15px;
+    
 }
